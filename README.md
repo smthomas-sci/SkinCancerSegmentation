@@ -26,11 +26,11 @@ can be found in `seg_models.py`, and are subquently used in the appropriate enum
 
 ### Cancer Boundary Prediction
 
-#### Basal Cell Carcinoma (IEC)
+#### Basal Cell Carcinoma (BCC)
 
 ![BCC Demo](./assets/BCC.gif)
 
-#### Intraepidermal Carcinoma (BCC)
+#### Intraepidermal Carcinoma (IEC)
 ![IEC Demo](./assets/IEC.gif)
 
 
