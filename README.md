@@ -24,7 +24,13 @@ can be found in `seg_models.py`, and are subquently used in the appropriate enum
 (`10_classification.ipynb`). 
 
 
+### Cancer Boundary Prediction
+
+#### Basal Cell Carcinoma (IEC)
+
 ![BCC Demo](./assets/BCC.gif)
+
+#### Intraepidermal Carcinoma (BCC)
 ![IEC Demo](./assets/IEC.gif)
 
 
