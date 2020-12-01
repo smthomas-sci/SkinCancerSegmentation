@@ -1,5 +1,28 @@
-# SkinCancerSegmentation
-Repository supporting the paper titled *"Interpretable Deep Learning Systems for Multi-Class Segmentation and Classification of Non-Melanoma Skin Cancer"*
+<center>
+ 
+ # [Medical Image Analysis] Interpretable Deep Learning Systems for Multi-Class Segmentation and Classification of Non-Melanoma Skin Cancer
+ 
+ </center>
+
+<center>
+
+**Official repository of the paper**
+
+</center>
+
+Authors:
+- [Simon M. Thomas](https://orcid.org/0000-0003-4609-2732) **a, b**,
+- [James G. Lefevre](https://orcid.org/0000-0002-5945-9575) **a**
+- Glenn Baxter **b**
+- [Nicholas A. Hamilton](https://orcid.org/000-0003-0331-3427) **a**
+
+**a** - Institute for Molecular Bioscience, University of Queensland, 306 Carmody Road, St
+Lucia, Australia
+
+**b** - MyLab Pty. Ltd., 11 Hayling Street, Salisbury, Australia
+
+### Abstract
+We apply for the first-time interpretable deep learning methods simultaneously to the most common skin cancers (basal cell carcinoma, squamous cell carcinoma and intraepidermal carcinoma) in a histological setting. As these three cancer types constitute more than 90% of diagnoses, we demonstrate that the majority of dermatopathology work is amenable to automatic machine analysis. A major feature of this work is characterising the tissue by classifying it into 12 meaningful dermatological classes, including hair follicles, sweat glands as well as identifying the well-defined stratified layers of the skin. These provide highly interpretable outputs as the network is trained to represent the problem domain in the same way a pathologist would. While this enables a high accuracy of whole image classification (93.6-97.9%), by characterising the full context of the tissue we can also work towards performing routine pathologist tasks, for instance, orientating sections and automatically assessing and measuring surgical margins. This work seeks to inform ways in which future computer aided diagnosis systems could be applied usefully in a clinical setting with human interpretable outcomes.
 
 ### Citation
 
@@ -15,18 +38,6 @@ doi = "https://doi.org/10.1016/j.media.2020.101915",
 url = "http://www.sciencedirect.com/science/article/pii/S1361841520302796",
 }
 ```
-
-
-Authors:
-- [Simon M. Thomas](https://orcid.org/0000-0003-4609-2732) **a, b**,
-- [James G. Lefevre](https://orcid.org/0000-0002-5945-9575) **a**
-- Glenn Baxter **b**
-- [Nicholas A. Hamilton](https://orcid.org/000-0003-0331-3427) **a**
-
-**a** - Institute for Molecular Bioscience, University of Queensland, 306 Carmody Road, St
-Lucia, Australia
-
-**b** - MyLab Pty. Ltd., 11 Hayling Street, Salisbury, Australia
 
 <hr>
 
