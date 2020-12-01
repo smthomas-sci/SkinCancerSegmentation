@@ -1,5 +1,21 @@
 # SkinCancerSegmentation
-Repository supporting the paper titled *"Interpretable Deep Learning Systems for Multi-Class Segmentation and Classification of Non-Melanoma Skin Cancer"* **(IN REVIEW)**
+Repository supporting the paper titled *"Interpretable Deep Learning Systems for Multi-Class Segmentation and Classification of Non-Melanoma Skin Cancer"*
+
+### Citation
+
+```
+@article{THOMAS2021101915,
+title = "Interpretable deep learning systems for multi-class segmentation and classification of non-melanoma skin cancer",
+journal = "Medical Image Analysis",
+volume = "68",
+pages = "101915",
+year = "2021",
+issn = "1361-8415",
+doi = "https://doi.org/10.1016/j.media.2020.101915",
+url = "http://www.sciencedirect.com/science/article/pii/S1361841520302796",
+}
+```
+
 
 Authors:
 - [Simon M. Thomas](https://orcid.org/0000-0003-4609-2732) **a, b**,
